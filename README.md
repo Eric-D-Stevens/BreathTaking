@@ -5,10 +5,10 @@
 </head>
 
 <body class="c22">
-    <p class="c17 title" id="h.c1sopp2aqe34"><span class="c5">Breath Taking</span></p>
-    <p class="c20 subtitle" id="h.a6neagti38vm"><span class="c21">An attempt to bootstrap a single speaker
-            text-to-speech model</span></p>
-    <p class="c4"><span class="c2">Eric Stevens</span></p>
+    <h1><span class="c5">Breath Taking</span></h1>
+    <h3><span class="c21">An attempt to bootstrap a single speaker
+            text-to-speech model</span></h3>
+    <p class="c4"><span class="c2"></span></p>
     <h1 class="c7" id="h.ev5xnxgc0qze"><span class="c14">Introduction</span></h1>
     <p class="c4"><span class="c2">The goal of this project is to bootstrap a text-to-speech model when provided a large
             quantity (5 hours) of single speaker audio data. The term bootstrap refers to the fact that only the audio
