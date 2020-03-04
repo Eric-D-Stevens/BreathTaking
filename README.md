@@ -153,11 +153,7 @@
             layer size. All layers are fully connected. The code was written to take layer sizes as inputs to the
             constructor so that different layer sizes could easily be tested for model and GUP performance.</span></p>
     <p class="c3"><span class="c2"></span></p>
-    <p class="c4"><span
-            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 258.92px; height: 560.50px;"><img
-                alt="" src="images/image3.png"
-                style="width: 258.92px; height: 560.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
-                title=""></span></p>
+   
     <p class="c4"><span class="c2">The raw audio data is 100 ms sampled at 16 KHz. This means that there are a total of
             1,600 samples being used to take the DFT. The DFT doubles that, making our concatenated input vector an
             input size of 3,200. So &lsquo;d_in&rsquo; = 3200.</span><span
